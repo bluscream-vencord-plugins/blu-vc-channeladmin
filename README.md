@@ -1,4 +1,4 @@
-# Blu VC Channel Admin
+# Vencord Voice Channel Admin Plugin
 
 This plugin automatically blocks users when they join your voice channel by simulating button clicks on bot messages.
 
