@@ -48,6 +48,6 @@ The plugin includes anti-flood protection that prevents the same user from being
 3. Restart Discord
 4. Enable the plugin in Vencord settings
 
-## Author
+## AI Disclaimer
 
-Created by **Bluscream** 🎯
+This plugin was developed with the assistance of AI (Claude Sonnet 4). The AI helped with code structure, implementation details, and debugging. While the code has been reviewed and tested, please use it at your own discretion. If you encounter any issues, please report them through the GitHub issues page.
