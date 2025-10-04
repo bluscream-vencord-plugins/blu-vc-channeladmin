@@ -1,0 +1,321 @@
+{
+    "activity": null,
+    "activityInstance": null,
+    "application": null,
+    "applicationId": null,
+    "attachments": [],
+    "author": {
+        "id": "1279925176422633522",
+        "username": "VOICEPANEL",
+        "discriminator": "5971",
+        "avatar": "fea4fb4b704ec140f9c9350f585e9b69",
+        "avatarDecorationData": null,
+        "banner": null,
+        "verified": false,
+        "bot": true,
+        "system": false,
+        "mobile": false,
+        "desktop": false,
+        "flags": 0,
+        "publicFlags": 0,
+        "purchasedFlags": 0,
+        "premiumUsageFlags": 0,
+        "guildMemberAvatars": {},
+        "hasBouncedEmail": false,
+        "globalName": null,
+        "primaryGuild": null,
+        "collectibles": null,
+        "displayNameStyles": null,
+        "premiumState": null
+    },
+    "blocked": false,
+    "bot": false,
+    "call": null,
+    "changelogId": null,
+    "channel_id": "1421440507162394645",
+    "codedLinks": [],
+    "components": [
+        {
+            "type": 17,
+            "id": "0",
+            "spoiler": false,
+            "components": [
+                {
+                    "type": 12,
+                    "id": "0,0",
+                    "items": [
+                        {
+                            "media": {
+                                "url": "https://i.epvpimg.com/PlIxdab.png",
+                                "proxyUrl": "https://images-ext-1.discordapp.net/external/8HLjuzOjlBMUKmYNiFHySYZiKs_tun49iOfrqxeO4vk/https/i.epvpimg.com/PlIxdab.png",
+                                "height": 240,
+                                "width": 600,
+                                "placeholder": "BwiGAoAMOGd3eIAAAAAAADhod3iAm8g=",
+                                "placeholderVersion": 1,
+                                "contentType": "image/png",
+                                "loadingState": 2,
+                                "contentScanMetadata": {
+                                    "version": 2,
+                                    "flags": 0
+                                },
+                                "flags": 0
+                            },
+                            "description": null,
+                            "spoiler": false
+                        }
+                    ]
+                },
+                {
+                    "type": 12,
+                    "id": "0,1",
+                    "items": [
+                        {
+                            "media": {
+                                "url": "https://cdn.discordapp.com/attachments/1421440507162394645/1421440569527500850/voice_stats_1421440507162394645.png?ex=68d90b30&is=68d7b9b0&hm=3c8e33a9f97161ca4a3cba44aed2d2728c8b33120f8e0d8850d815843a893bbe&",
+                                "proxyUrl": "https://media.discordapp.net/attachments/1421440507162394645/1421440569527500850/voice_stats_1421440507162394645.png?ex=68d90b30&is=68d7b9b0&hm=3c8e33a9f97161ca4a3cba44aed2d2728c8b33120f8e0d8850d815843a893bbe&",
+                                "height": 160,
+                                "width": 600,
+                                "placeholder": "EQiCAYAVv62qioj/3fffbIiIdXiIOAc=",
+                                "placeholderVersion": 1,
+                                "contentType": "image/png",
+                                "loadingState": 2,
+                                "contentScanMetadata": {
+                                    "version": 2,
+                                    "flags": 0
+                                },
+                                "flags": 0
+                            },
+                            "description": null,
+                            "spoiler": false
+                        }
+                    ]
+                },
+                {
+                    "type": 14,
+                    "id": "0,2",
+                    "divider": true,
+                    "spacing": 1
+                },
+                {
+                    "type": 9,
+                    "id": "0,3",
+                    "components": [
+                        {
+                            "type": 10,
+                            "id": "0,3,0",
+                            "content": "**<:rename:1412208557125931120> RENAME**\n-# Den Namen des Kanals ändern"
+                        }
+                    ],
+                    "accessory": {
+                        "type": 2,
+                        "id": "0,3,1",
+                        "customId": "rename_button",
+                        "style": 2,
+                        "label": "Bearbeiten"
+                    }
+                },
+                {
+                    "type": 14,
+                    "id": "0,4",
+                    "divider": true,
+                    "spacing": 1
+                },
+                {
+                    "type": 9,
+                    "id": "0,5",
+                    "components": [
+                        {
+                            "type": 10,
+                            "id": "0,5,0",
+                            "content": "**<:limit:1395973607800180818> LIMIT**\n-# Maximale Nutzerzahl festlegen"
+                        }
+                    ],
+                    "accessory": {
+                        "type": 2,
+                        "id": "0,5,1",
+                        "customId": "limit_button",
+                        "style": 2,
+                        "label": "Bearbeiten"
+                    }
+                },
+                {
+                    "type": 14,
+                    "id": "0,6",
+                    "divider": true,
+                    "spacing": 1
+                },
+                {
+                    "type": 9,
+                    "id": "0,7",
+                    "components": [
+                        {
+                            "type": 10,
+                            "id": "0,7,0",
+                            "content": "**<:lock:1395973599827070986> PRIVATE**\n-# Den Kanal auf privat setzen"
+                        }
+                    ],
+                    "accessory": {
+                        "type": 2,
+                        "id": "0,7,1",
+                        "customId": "private_button",
+                        "style": 2,
+                        "label": "Schließen"
+                    }
+                },
+                {
+                    "type": 14,
+                    "id": "0,8",
+                    "divider": true,
+                    "spacing": 1
+                },
+                {
+                    "type": 9,
+                    "id": "0,9",
+                    "components": [
+                        {
+                            "type": 10,
+                            "id": "0,9,0",
+                            "content": "**<:open:1412207186444029982> PUBLIC**\n-# Den Kanal für alle sichtbar machen"
+                        }
+                    ],
+                    "accessory": {
+                        "type": 2,
+                        "id": "0,9,1",
+                        "customId": "public_button",
+                        "style": 2,
+                        "label": "Öffnen"
+                    }
+                },
+                {
+                    "type": 14,
+                    "id": "0,10",
+                    "divider": true,
+                    "spacing": 1
+                },
+                {
+                    "type": 9,
+                    "id": "0,11",
+                    "components": [
+                        {
+                            "type": 10,
+                            "id": "0,11,0",
+                            "content": "**<:graduation:1395973590070984826> TRANSFER**\n-# Den Kanal einer Person übertragen"
+                        }
+                    ],
+                    "accessory": {
+                        "type": 2,
+                        "id": "0,11,1",
+                        "customId": "transfer_button",
+                        "style": 2,
+                        "label": "Transfer"
+                    }
+                },
+                {
+                    "type": 14,
+                    "id": "0,12",
+                    "divider": true,
+                    "spacing": 1
+                },
+                {
+                    "type": 9,
+                    "id": "0,13",
+                    "components": [
+                        {
+                            "type": 10,
+                            "id": "0,13,0",
+                            "content": "**<:ban:1412208014194114631> BAN**\n-# Nutzer dauerhaft blockieren"
+                        }
+                    ],
+                    "accessory": {
+                        "type": 2,
+                        "id": "0,13,1",
+                        "customId": "block_button",
+                        "style": 2,
+                        "label": "Sperren"
+                    }
+                },
+                {
+                    "type": 14,
+                    "id": "0,14",
+                    "divider": true,
+                    "spacing": 1
+                },
+                {
+                    "type": 9,
+                    "id": "0,15",
+                    "components": [
+                        {
+                            "type": 10,
+                            "id": "0,15,0",
+                            "content": "**<:unban:1412208080820637759> UNBAN**\n-# Nutzer wieder freigeben"
+                        }
+                    ],
+                    "accessory": {
+                        "type": 2,
+                        "id": "0,15,1",
+                        "customId": "unblock_button",
+                        "style": 2,
+                        "label": "Freigeben"
+                    }
+                },
+                {
+                    "type": 14,
+                    "id": "0,16",
+                    "divider": true,
+                    "spacing": 1
+                },
+                {
+                    "type": 9,
+                    "id": "0,17",
+                    "components": [
+                        {
+                            "type": 10,
+                            "id": "0,17,0",
+                            "content": "**<:activisionid:1412208981119598634> ACTIVISION IDs**\n-# Die verbundenen ActivisionID's anzeigen"
+                        }
+                    ],
+                    "accessory": {
+                        "type": 2,
+                        "id": "0,17,1",
+                        "customId": "activision_button",
+                        "style": 1,
+                        "label": "Anzeigen"
+                    }
+                }
+            ]
+        }
+    ],
+    "content": "",
+    "editedTimestamp": "2025-09-27T10:17:20.369Z",
+    "embeds": [],
+    "flags": 32768,
+    "giftCodes": [],
+    "giftingPrompt": null,
+    "id": "1421440513273237675",
+    "ignored": false,
+    "interaction": null,
+    "interactionData": null,
+    "interactionError": null,
+    "interactionMetadata": null,
+    "isSearchHit": false,
+    "isUnsupported": false,
+    "loggingName": null,
+    "mentionChannels": [],
+    "mentioned": false,
+    "mentionEveryone": false,
+    "mentionGames": [],
+    "mentionRoles": [],
+    "mentions": [],
+    "messageReference": null,
+    "messageSnapshots": [],
+    "pinned": false,
+    "reactions": [],
+    "referralTrialOfferId": null,
+    "state": "SENT",
+    "stickerItems": [],
+    "stickers": [],
+    "timestamp": "2025-09-27T10:17:07.452Z",
+    "tts": false,
+    "type": 0,
+    "webhookId": null
+}
