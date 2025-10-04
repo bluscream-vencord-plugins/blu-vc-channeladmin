@@ -4,26 +4,32 @@ This plugin automatically blocks users when they join your voice channel by simu
 
 ## Features
 
--   Listens for voice state updates in a configured server
--   Automatically triggers the "block_button" action when users join your voice channel
--   Anti-flood protection to prevent duplicate actions
--   Configurable server ID and bot ID
--   Easy enable/disable toggle
+- Listens for voice state updates in a configured server
+- Automatically triggers the "block_button" action when users join your voice channel
+- Anti-flood protection to prevent duplicate actions
+- Configurable server ID and bot ID
+- Easy enable/disable toggle
 
 ## Configuration
 
--   **Target Server ID**: The Discord server ID where your voice channel is located (default: 500074231544152074)
--   **Bot ID**: The ID of the bot that sends the voice channel management messages (default: 1279925176422633522)
--   **Enabled**: Toggle to enable/disable the automatic blocking feature
+- **Target Server ID**: The Discord server ID where your voice channel is located (default: 500074231544152074)
+- **Bot ID**: The ID of the bot that sends the voice channel management messages (default: 1279925176422633522)
+- **Enabled**: Toggle to enable/disable the automatic blocking feature
+
+## Settings
+
+- **Server ID**: The Discord server ID where your voice channel is located
+- **Bot ID**: Bot ID that sends the voice channel management message
+- **Enable**: Enable automatic blocking when users join your voice channel
 
 ## How it works
 
 1. The plugin listens for `VOICE_STATE_UPDATES` events
 2. When a user joins your voice channel in the configured server, it:
-    - Finds the voice channel's associated text channel
-    - Locates the first message from the configured bot
-    - Finds the "block_button" component in that message
-    - Simulates clicking that button to block the user
+   - Finds the voice channel's associated text channel
+   - Locates the first message from the configured bot
+   - Finds the "block_button" component in that message
+   - Simulates clicking that button to block the user
 
 ## Anti-flood Protection
 
@@ -31,6 +37,6 @@ The plugin includes anti-flood protection that prevents the same user from being
 
 ## Requirements
 
--   You must be in a voice channel in the configured server
--   The bot must have sent a message with the "block_button" component in the voice channel's text chat
--   You must have the necessary permissions to block users in that server
+- You must be in a voice channel in the configured server
+- The bot must have sent a message with the "block_button" component in the voice channel's text chat
+- You must have the necessary permissions to block users in that server
