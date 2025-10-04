@@ -40,3 +40,14 @@ The plugin includes anti-flood protection that prevents the same user from being
 - You must be in a voice channel in the configured server
 - The bot must have sent a message with the "block_button" component in the voice channel's text chat
 - You must have the necessary permissions to block users in that server
+
+## Installation
+
+1. Copy the `blu-vc-channeladmin` folder to your Vencord `src/userplugins` directory
+2. Rebuild Vencord: `npm run build`
+3. Restart Discord
+4. Enable the plugin in Vencord settings
+
+## Author
+
+Created by **Bluscream** 🎯
